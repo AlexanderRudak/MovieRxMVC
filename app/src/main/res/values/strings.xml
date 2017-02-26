@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="title_item_detail">MovieDetail</string>
+
+    <string name="action_sort_popular">Sort by popular</string>
+    <string name="action_sort_rating">Sort by top rated</string>
+    <string name="action_sort_favorite">Sort by favorite</string>
+
+    <string name="title_sort_popular">Pop Movies</string>
+    <string name="title_sort_rating">Top Movies</string>
+    <string name="title_sort_favorite">Fav Movies</string>
+
+
+    <string name="action_set_favorite">MARK AS FAVORITE</string>
+    <string name="title_activity_main22">Main22Activity</string>
+</resources>
